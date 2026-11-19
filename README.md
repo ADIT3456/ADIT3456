@@ -7,7 +7,7 @@ I ❤️ Front-End Development!
 
 💻 **Software Engineer & Frontend Developer** specializing in **React.js**.
 
-⚛️ React.js Enthusiast | 🚀 Web App Builder | ☕️ Coffee Lover
+⚛️ React.js | 🚀 Web App Builder | life is code
 
 💡 Passionate about bringing ideas to life. Explore all of my projects below.
 
