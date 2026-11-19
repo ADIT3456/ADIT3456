@@ -1,7 +1,7 @@
 # Hello, I'm Adit Riyawan
 
 [![GitHub](https://img.shields.io/badge/-@ADIT3456-%23181717?style=flat-square&logo=github)](https://github.com/ADIT3456)
-[![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adeath.my.id&url=https%3A%2F%2Fadeath.my.id)](https://adeath.my.id)
+[![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=aditriyawan.my.id&url=https%3A%2F%2Faditriyawan.my.id)](https://aditriyawan.my.id)
 
 I ❤️ Front-End Development!
 
@@ -13,9 +13,31 @@ I ❤️ Front-End Development!
 
 ## Currently Working On
 
-[![app-flashcard-hika](https://svg.bookmark.style/api?url=https://github.com/ADIT3456/app-flashcard-hika&mode=light&style=horizontal)](https://github.com/ADIT3456/app-flashcard-hika)
-[![document-generator](https://svg.bookmark.style/api?url=https://github.com/ADIT3456/document-generator&mode=dark&style=horizontal)](https://github.com/ADIT3456/document-generator)
-[![haircut](https://svg.bookmark.style/api?url=https://github.com/ADIT3456/haircut&mode=light&style=horizontal)](https://github.com/ADIT3456/haircut)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://flashcardhika.my.id/">
+        <img src="https://img.sanishtech.com/u/28bb0159ca566ea73c1f24b57b8bdd3a.jpg" alt="Flashcard Hika" width="100%" />
+      </a>
+      <h4><a href="https://flashcardhika.my.id/">Flashcard Hika</a></h4>
+      <p>Aplikasi belajar bahasa Jepang all-in-one (Nol sampai N3) dengan Mode Kana Adaptif, kurikulum Minna no Nihongo, simulasi ujian JLPT, serta dukungan 100% offline. <a href="https://github.com/ADIT3456/app-flashcard-hika">[GitHub]</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://kybook.my.id/">
+        <img src="https://img.sanishtech.com/u/a2304365863ef9058338c4252f971e91.jpg" alt="Kybook" width="100%" />
+      </a>
+      <h4><a href="https://kybook.my.id/">Kybook</a></h4>
+      <p>Client-side document generator untuk menyusun dokumen akademik dan karier secara terstruktur dengan pengaturan margin, penomoran, dan daftar isi otomatis ke format .docx. <a href="https://github.com/ADIT3456/document-generator">[GitHub]</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://aditriyawan.my.id/">
+        <img src="https://img.sanishtech.com/u/8a8745efb2d5d945802d128321745ab8.jpg" alt="Haircut Sprint" width="100%" />
+      </a>
+      <h4><a href="https://aditriyawan.my.id/">Haircut Sprint</a></h4>
+      <p>Platform layanan pemesanan pangkas rambut panggilan (home service) eksklusif di Bandung dengan tampilan modern dan sistem booking paket layanan. <a href="https://github.com/ADIT3456/haircut">[GitHub]</a></p>
+    </td>
+  </tr>
+</table>
 
 ## My Tech Stack
 
